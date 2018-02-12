@@ -1,1 +1,1 @@
-This is Keylay's first git project!
+This is KellyRipa's first git project!
